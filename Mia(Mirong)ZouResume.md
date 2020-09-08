@@ -18,12 +18,16 @@ LinkedIn: https://www.linkedin.com/in/miazou/ | GitHub: https://github.com/MiaZo
 ##### WEB DEVELOPMENT EXPERIENCES
 **Forkify** | [Git Link](https://github.com/MiaZou/forkify) | [Link](forkify.miazou.com)
 A recipe search application used JavaScript, Webpack, and MVC pattern includes features such as liking recipes, adding ingredients to shopping lists, and editing shopping lists. 
+
 **VideosApp** | [Git Link](https://github.com/MiaZou/videosApp) | [Heroku Link](https://videos-react-app.herokuapp.com/)
 A youtube similar browser application which allows users to type the search terms on the input box, view the list of results, and click to play in the embedded player. The application focused on React and CSS. It integrates axios, youtube public free API, and semantic ui css library.
+
 **Nomster** | [Git Link](https://github.com/MiaZou/Nomster) | [Heroku Link](https://nomster-mia-zou.herokuapp.com/)
 A Yelp clone that integrates with the PostgreSQL database, the Google Maps API, and includes features like user comments, star ratings, image uploading (Amazon S3), and user authentication.
+
 **Flixter** | [Git Link](https://github.com/MiaZou/Flixter) | [Heroku Link](https://flixter-mia-zou.herokuapp.com/)
 A Udemy clone online lecturing application with features of video uploading (Amazon S3), credit card payment capabilities (Stripe API), database relationships(PostgreSQL).
+
 **PetsBeSocial** | [Git Link](https://github.com/FinalProjectUCBerkleyAug/final_project)
 A group project builds a pet-social-media with posting (with/without image or video), commenting, liking/unliking features and enhanced knowledge of Git, PostgreSQL, communication and collaborative skills. (MVP)
 
