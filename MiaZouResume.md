@@ -1,6 +1,6 @@
 # Mia (Mirong) Zou
 
-Sunnyvale, CA 94089 | (217) 316-0136 | mirongzou@gmail.com | Portfolio: www.miazou.com
+Sunnyvale, CA 94089 | mirongzou@gmail.com | Portfolio: www.miazou.com
 LinkedIn: https://www.linkedin.com/in/miazou/ | GitHub: https://github.com/MiaZou
 
 **Summary:** A self-motivated full-stack developer with a passion for code writing. Previously worked as a Registered Dietitian which enhanced problem-solving skills similar in software development - effectively break a big problem into smaller components and aim to fix one piece at a time efficiently. Particularly, enjoy building pieces with JS and Flutter. 
